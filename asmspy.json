@@ -1,0 +1,7 @@
+{
+    "url":  "https://github.com/billybooth/bucket/raw/master/packages/asmspy.zip",
+    "bin":  [
+                "asmspy.exe"
+            ],
+    "version":  "1.3.102.0"
+}
