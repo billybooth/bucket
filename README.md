@@ -1,2 +1,2 @@
 # bucket
-A private Scoop bucket for tools.
+A personal Scoop bucket for tools.
