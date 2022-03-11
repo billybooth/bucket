@@ -1,0 +1,10 @@
+{
+    "homepage": "https://appliedolap.com",
+    "license": "MIT",
+    "url": "https://github.com/billybooth/bucket/raw/master/packages/dodeca-essbase.zip",
+    "bin": [
+                "dodeca-essbase.cmd"
+           ],
+    "hash": "f370c305ec93932b621471a73e4017ae29c78a310528f788d77e2ae7c1d0b585",
+    "version":  "1.0"
+}
