@@ -1,10 +1,10 @@
 {
     "homepage": "https://appliedolap.com",
     "license": "MIT",
-    "url": "https://github.com/billybooth/bucket/raw/master/packages/dodeca.1.0.zip",
+    "url": "https://github.com/billybooth/bucket/raw/master/packages/dodeca.1.1.zip",
     "bin": [
                 "dodeca.cmd"
            ],
-    "hash": "4c585a07b34f18e0c101a574a28740273a2866eba6c3dfa07882f454384e2e0a",
-    "version":  "1.0"
+    "hash": "0e0a12ea9dc339239e17fb20a27732d1cb00a3890f60130afd009d538ab4473d",
+    "version":  "1.1"
 }
