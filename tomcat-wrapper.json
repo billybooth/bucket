@@ -1,0 +1,10 @@
+{
+    "homepage": "https://appliedolap.com",
+    "license": "MIT",
+    "url": "https://github.com/billybooth/bucket/raw/master/packages/tomcat-wrapper.1.0.zip",
+    "bin": [
+                "tomcat.cmd"
+           ],
+    "hash": "33952c96b7360dce443a51ed4a1bbe566549f6c7598d8698f049004b96fa76ca",
+    "version":  "1.0"
+}
