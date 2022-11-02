@@ -1,10 +1,10 @@
 {
     "homepage": "https://appliedolap.com",
     "license": "UPL",
-    "url": "https://github.com/billybooth/bucket/raw/master/packages/essbase.1.2.zip",
+    "url": "https://github.com/billybooth/bucket/raw/master/packages/essbase.1.3.zip",
     "bin": [
                 "essbase.cmd"
            ],
-    "hash": "cb84667bba751a90a1212a534085219ec8b8f07c3bccccb6a92822032d89e1f0",
-    "version":  "1.2"
+    "hash": "ea1fbf3cc69482ead0daa8fae5295ec5fd0b6a8ac52a4e7aca8a3956e9039d02",
+    "version":  "1.3"
 }
